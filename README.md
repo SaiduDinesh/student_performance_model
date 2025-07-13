@@ -20,6 +20,7 @@ Installation
 Clone the repository:
 
 git clone https://github.com/SaiduDinesh/student_performance_model.git
+
 cd student-performance-prediction
 Install dependencies:
 
