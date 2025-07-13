@@ -67,10 +67,15 @@ Test preparation and parental education significantly influenced performance.
 # File Structure
 .
 ├── data/                         # Contains StudentsPerformance.csv
+
 ├── eda_visualizations.ipynb     # Notebook for EDA and plots
+
 ├── model_training.ipynb         # Model building and evaluation
+
 ├── requirements.txt             # List of required Python packages
+
 ├── README.md                    # Project documentation
+
 License
 This project is licensed under the MIT License.
 
